@@ -13,13 +13,13 @@ age = "25"
 
 // TYPE STRING
 let myName = "Ezequiel"
-let myDogName: string = "Mara"
+let dogName: string = "peque"
 
 myName = true;
 myName = "Ezequiel".length
-myName = "Ezeuqiel".length === 0
+myName = "Ezequiel".length === 0
 
 // TYPE BOOLEAN
 let isAwesome = false;
-let isAwesome2 = "Ezeuqiel".length === 0
+let isAwesome2 = "Ezequiel".length === 0
 let isBoring: boolean = true
